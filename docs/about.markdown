@@ -12,4 +12,11 @@ Personally, I am 23 years old and married to a wonderful woman named Katie. We h
 
 
 LinkedIn: [LinkedIn](www.linkedin.com/in/jacob-castaneda-416374133)
+
+
 Github: [Github](github.com/jacobjcastaneda)
+
+
+<img src="Profile_photo.JPG" style="max-width : 500 px;" alt="Profile-Picture" />
+
+<figcaption>This is me in Autumn 2020, my first quarter at Stanford.</figcaption>
