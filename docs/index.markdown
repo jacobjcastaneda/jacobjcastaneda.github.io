@@ -6,7 +6,7 @@ layout: default
 ---
 
 ![profilepicture](/assets/img/profilephoto.jpg){: height="400px" : border="2px solid black;" : style="float: left; margin-right: 25px;"}
-I am a PhD student in the Civil & Environmental Engineering department at Stanford University. My advisor is Dr. Oliver Fringer of the Bob and Norma Street Environmental Fluid Mechanics Lab (EFML).
+I am a PhD student in the Civil & Environmental Engineering department at Stanford University. My advisor is <a href="https://web.stanford.edu/~fringer/">Oliver Fringer</a> of the <a href="https://cee.stanford.edu/research-impact/labs-centers/bob-and-norma-street-environmental-fluid-mechanics-laboratory-efml">Bob and Norma Street Environmental Fluid Mechanics Lab (EFML)</a>.
 
 My proposed research concerns identifying the physics that drive internal wave and surface wave interactions.
 I am passionate about all things pertaining to fluid mechanics and computer science. My aim is to someday develop engineering software that makes a difference for practicing engineers.
