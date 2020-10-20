@@ -4,17 +4,19 @@ title: About
 permalink: /about/
 ---
 
-My name is Jacob Castaneda. I am currently a PhD student in the EFML at Stanford University. My advisor is Dr. Oliver Fringer, and with his help, I intend to research the physics of internal waves.
+I am a PhD student in the Civil & Environmental Engineering department at Stanford University. My advisor is Dr. Oliver Fringer of the Bob and Norma Street Environmental Fluid Mechanics Lab (EFML). My proposed research concerns identifying the physics that drive internal wave and surface wave interactions.
 
-I am passionate about all things pertaining to computational math, fluid mechanics, and computer science. My aim is to someday develop engineering software that makes a difference for practicing engineers. Until then you will most likely find me coding ...
+I am passionate about all things pertaining to fluid mechanics and computer science. My aim is to someday develop engineering software that makes a difference for practicing engineers.
 
-Personally, I am 23 years old and married to a wonderful woman named Katie. We have an incredible puppy, Stella, and she just might be the cutest Goldendoodle you have ever seen (I'm bias!). When I'm not hard at work, you can find me dreaming up new ways to advance my fitness through cross training, trying to quantitatively describe my health through exercise and diet tracking, dreaming of the day I own a beach house with great internet so I can code by the ocean, and most likely (of all) watching netflix with my lady!
+With regard to my personal life, I am married to a wonderful woman named Katie and we have an incredibly cute Goldendoodle, Stella. In my free time, you can find me cross training, trying to quantitatively describe my health through exercise and diet tracking, and most likely (of all) watching netflix with my lady!
 
 
 LinkedIn: [LinkedIn](www.linkedin.com/in/jacob-castaneda-416374133)
 
 
 Github: [Github](github.com/jacobjcastaneda)
+
+Google: [Google](http://google.com)
 
 
 <img src="{{site.jacobjcastaneda.githib.io}}/assets/img/profilephoto.jpg" />
