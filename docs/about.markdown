@@ -17,6 +17,6 @@ LinkedIn: [LinkedIn](www.linkedin.com/in/jacob-castaneda-416374133)
 Github: [Github](github.com/jacobjcastaneda)
 
 
-<img src="Profile_photo.JPG" style="max-width : 500 px;" alt="Profile-Picture" />
+<img src="{{site.jacobjcastaneda.githib.io}}/assets/img/profilephoto.jpg" />
 
 <figcaption>This is me in Autumn 2020, my first quarter at Stanford.</figcaption>
