@@ -17,7 +17,7 @@ With regard to my personal life, I am married to a wonderful woman named Katie a
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/jacob-castaneda-416374133">LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/jacobjcastaneda">LinkedIn</a> | 
 
 <a href="https://www.github.com/jacobjcastaneda">Github</a>
 
