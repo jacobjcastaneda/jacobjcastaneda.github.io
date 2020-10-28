@@ -11,7 +11,7 @@ I am a PhD student in the Civil & Environmental Engineering department at Stanfo
 My proposed research concerns identifying the physics that drive internal wave and surface wave interactions.
 I am passionate about all things pertaining to fluid mechanics and computer science. My aim is to someday develop engineering software that makes a difference for practicing engineers.
 
-With regard to my personal life, I am married to a wonderful woman named Katie and we have an incredibly cute Goldendoodle, Stella. In my free time, you can find me cross training, trying to quantitatively describe my health through exercise and diet tracking, and most likely (of all) watching Netflix with my lady!
+With regard to my personal life, I am married to a wonderful woman named Katie and we have an incredibly cute Goldendoodle, Stella. In my free time, you can find me cross training, trying to quantitatively track my health, and most likely watching Netflix with my lady!
 
 ------
 
