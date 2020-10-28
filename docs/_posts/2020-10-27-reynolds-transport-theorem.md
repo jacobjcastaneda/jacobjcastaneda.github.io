@@ -61,11 +61,30 @@ $$ \frac{dN}{dt} \Big|_{CM} = \frac{d}{dt} \int _{CV} \rho \eta dV + \int_{CV} \
 
 where **N** is a transportable quantity and $$\eta$$ is equal to $$\frac{N}{mass}$$.
 
-![figure1](/assets/img/RTT_CV.png){: height="400px" : border="1px"}
+![figure1](/assets/img/RTT_cv.png){: height="400px" : border="1px"}
 
 **Figure 1:** *Representation of CV and CM.*
 
-### References:
+
+## Some Math Finessing
+
+Alternatively, we can take $$\phi$$, the quantity of interest per unit volume which is equal to $$\rho\eta$$ or $$\rho(\frac{N}{mass})$$, and take the time derivative of the quantity summed over a material volume V(t) which evolves in time with the material as it moves and we track it. In other words, we want to integrate because we want to know the total amount of N in the volume and then differentiate in time to find the rate of change of N, which yields the following **statement 1**:
+
+$$ \frac{D}{Dt} \int_{CV} \phi (\vec{x},t) $$
+
+Since our material volume is moving we use capital "D" in the derivative to demonstrate that this is a material derivative. We should note that here, mathematically, the Lagrangian approach is considered via the material volume which evolves in time and the Eulerian approach is assessd via the integrand $$ \phi$$ which is a function of space and time and represents a defined quantity in space and time through which the material will travel. To resolve **statement 1** we can utilize the *Leibniz Integral Rule*. In essence, this rule extends the fundamental theorem of calculus to work for a case when the limits of integration are moving. In this case the bounds of our material volume are changing in time as we follow the material element. The Leibniz Rule considers this added complexity by simply applying the chain rule. In one dimension it looks like this:
+
+$$ \frac{d}{dt} \int_{a(t)}^{b(t)} \phi (x,t) dx = \int_{a(t)}^{b(t)} \frac{\delta \phi}{\delta t} + \frac{d \phi}{db} \frac{db}{dt} - \frac{d \phi}{da} \frac{da}{dt}$$
+
+Now we can compute this complicated, differentiated integral which essentially sums **N** in a volume that has evolving boundaries in time. Applying this rule to **statement 1** we get **statement 2**:
+
+$$ \frac{D}{Dt} \int_{V(t)} \phi (\vec{x},t) = \int_{V(t)} \frac{\delta \phi }{\delta t} + \int_{S(t)} \phi (\vec{u} \boldsymbol{\cdot} \vec{dS}) $$
+
+This is a generalized form of RTT. 
+
+
+
+## References:
 
 This is an unofficial reference. Everything I discuss here was learned through reading **Fluid Mechanics** *by Kundu* or through my Stanford courses: taught by *Dr. Nick Oullette (CEE 262A)* and *Dr. Ali Mani (ME 351A)*. 
 
