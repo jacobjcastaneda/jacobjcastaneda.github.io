@@ -6,7 +6,7 @@ title: Reynolds Transport Theorem
 
 ## Motivation For Post
 
-]The Reynolds Transport Theorem (hereafter referred to as RTT), for me, was the most fundamental element of beginning to understand fluid mechanics. This may be obvious to some; however, for me it was just this hand wavy cool math trick used to derive conservation laws until I finally conceptualized it. Here is my take on it!
+The Reynolds Transport Theorem (hereafter referred to as RTT), for me, was the most fundamental element of beginning to understand fluid mechanics. This may be obvious to some; however, for me it was just this hand wavy cool math trick used to derive conservation laws until I finally conceptualized it. Here is my take on it!
 
 ## Why do we need RTT?
 
