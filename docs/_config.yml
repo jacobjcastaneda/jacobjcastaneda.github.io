@@ -36,3 +36,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# uses markdown: kramdown by default

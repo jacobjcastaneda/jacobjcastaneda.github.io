@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Reynolds Transport Theorem
+mathjax: true
 ---
 
 # Motivation
+
 
 
 # Supporting Mathematics
