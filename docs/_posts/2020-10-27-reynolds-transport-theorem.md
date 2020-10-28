@@ -1,19 +1,21 @@
 ---
 layout: post
 title: Reynolds Transport Theorem
-mathjax: true
 ---
 
-# Motivation
+
+## Motivation
+
+some math stuff $$  \int $$
+
+## Supporting Mathematics
 
 
 
-# Supporting Mathematics
+## A more Rigorous, yet intuitive mathematic Approach
 
 
 
-# A more Rigorous, yet intuitive mathematic Approach
+## Control Volumes & Control Mass
 
 
-
-# Control Volumes & Control Mass		
