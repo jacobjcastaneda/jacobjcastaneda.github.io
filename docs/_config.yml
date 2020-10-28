@@ -7,8 +7,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   has time to share from his PhD studies.
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jacobjcastaneda.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jacobjcastaneda
+
 
 # Build settings
 theme: minima

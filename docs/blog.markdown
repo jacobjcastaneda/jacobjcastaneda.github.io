@@ -1,13 +1,12 @@
 ---
 title: Blog
 layout: page
-permalink: /blog/
 ---
 
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+
+   <a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+
+{% endfor %}
+
+
