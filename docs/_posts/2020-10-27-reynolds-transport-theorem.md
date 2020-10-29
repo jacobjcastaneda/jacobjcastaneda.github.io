@@ -74,7 +74,7 @@ $$ \frac{D}{Dt} \int_{CV} \phi (\vec{x},t) $$
 
 Since our material volume is moving we use capital "D" in the derivative to demonstrate that this is a material derivative. We should note that here, mathematically, the Lagrangian approach is considered via the material volume which evolves in time and the Eulerian approach is assessd via the integrand $$ \phi$$ which is a function of space and time and represents a defined quantity in space and time through which the material will travel. To resolve **statement 1** we can utilize the *Leibniz Integral Rule*. In essence, this rule extends the fundamental theorem of calculus to work for a case when the limits of integration are moving. In this case the bounds of our material volume are changing in time as we follow the material element. The Leibniz Rule considers this added complexity by simply applying the chain rule. In one dimension it looks like this:
 
-$$ \frac{d}{dt} \int_{a(t)}^{b(t)} \phi (x,t) dx = \int_{a(t)}^{b(t)} \frac{\delta \phi}{\delta t} + \frac{d \phi}{db} \frac{db}{dt} - \frac{d \phi}{da} \frac{da}{dt}$$
+$$ \frac{d}{dt} \int_{a(t)}^{b(t)} \phi (x,t) dx = \int_{a(t)}^{b(t)} \frac{\delta \phi}{\delta t} + \frac{\delta \phi}{\delta b} \frac{db}{dt} + \frac{\delta \phi}{\delta a} \frac{da}{dt}$$
 
 Now we can compute this complicated, differentiated integral which essentially sums **N** in a volume that has evolving boundaries in time. Applying this rule to **statement 1** we get **statement 2**:
 
