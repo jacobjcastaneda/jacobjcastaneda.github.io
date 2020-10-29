@@ -3,10 +3,13 @@ title: Blog
 layout: page
 ---
 
-{% for post in site.posts %}
+## Hydrodynamics
 
-   <a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+ <a href="https://www.notion.so/Reynolds-Transport-Theorem-15c549a852504b3ba78c31b1dd6957ee">Reynolds Transport Theorem</a>
 
-{% endfor %}
+## Motivation
+
+ <a href="https://www.notion.so/2020-10-27-quals-354c7427eaf94c4592d1ffca779f8ebf">Blog Motivation: An Explanation</a>
+
 
 
