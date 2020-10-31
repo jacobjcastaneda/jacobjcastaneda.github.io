@@ -5,6 +5,8 @@ layout: page
 
 ## Hydrodynamics
 
+<a href="https://www.notion.so/The-Constitutive-Relation-266f33ce349a40628f26b677bb9df9ba">The Constitutive Relation</a>
+
 <a href="https://www.notion.so/Conservation-of-Momentum-0381f4614ac34116b422ebde36fd8fb2">Conservation of Momentum</a>
 
 
@@ -15,6 +17,7 @@ layout: page
 ## Motivation
 
  <a href="https://www.notion.so/2020-10-27-quals-354c7427eaf94c4592d1ffca779f8ebf">Blog Motivation: An Explanation</a>
+
 
 
 
