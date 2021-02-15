@@ -15,9 +15,6 @@ layout: page
 
 <a href="https://www.notion.so/Navier-Stokes-2442283b83304800bb73c4d52cc9e94b">The Navier-Stokes Equations</a>
 
- ## Motivation
-
- <a href="https://www.notion.so/2020-10-27-quals-354c7427eaf94c4592d1ffca779f8ebf">Blog Motivation: An Explanation</a>
 
 
 
