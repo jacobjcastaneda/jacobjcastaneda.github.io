@@ -4,7 +4,7 @@ email: jjcast@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal/professional website of Jacob J Castaneda. The 
   website contains his resume, information about him, and anything he
-  has time to share from his PhD studies.
+  has time to share from his work/studies.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jacobjcastaneda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
